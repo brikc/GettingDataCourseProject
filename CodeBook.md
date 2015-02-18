@@ -56,62 +56,122 @@ subjectMean: tGravityAccMeanZ
 subjectMean: tBodyAccJerkMeanX
 
 subjectMean: tBodyAccJerkMeanY
+
 subjectMean: tBodyAccJerkMeanZ
+
 subjectMean: tBodyGyroMeanX
+
 subjectMean: tBodyGyroMeanY
+
 subjectMean: tBodyGyroMeanZ
+
 subjectMean: tBodyGyroJerkMeanX
+
 subjectMean: tBodyGyroJerkMeanY
+
 subjectMean: tBodyGyroJerkMeanZ
+
 subjectMean: tBodyAccMagMean       
+
 subjectMean: tGravityAccMagMean
+
 subjectMean: tBodyAccJerkMagMean
+
 subjectMean: tBodyGyroMagMean       
+
 subjectMean: tBodyGyroJerkMagMean
+
 subjectMean: fBodyAccMeanX
+
 subjectMean: fBodyAccMeanY           
+
 subjectMean: fBodyAccMeanZ
+
 subjectMean: fBodyAccJerkMeanX
+
 subjectMean: fBodyAccJerkMeanY      
+
 subjectMean: fBodyAccJerkMeanZ
+
 subjectMean: fBodyGyroMeanX
+
 subjectMean: fBodyGyroMeanY         
+
 subjectMean: fBodyGyroMeanZ
+
 subjectMean: fBodyAccMagMean
+
 subjectMean: fBodyBodyAccJerkMagMean 
+
 subjectMean: fBodyBodyGyroMagMean
+
 subjectMean: fBodyBodyGyroJerkMagMean
+
 subjectMean: tBodyAccStdX            
+
 subjectMean: tBodyAccStdY
+
 subjectMean: tBodyAccStdZ
+
 subjectMean: tGravityAccStdX         
+
 subjectMean: tGravityAccStdY
+
 subjectMean: tGravityAccStdZ
+
 subjectMean: tBodyAccJerkStdX        
+
 subjectMean: tBodyAccJerkStdY
+
 subjectMean: tBodyAccJerkStdZ
+
 subjectMean: tBodyGyroStdX           
+
 subjectMean: tBodyGyroStdY
+
 subjectMean: tBodyGyroStdZ
+
 subjectMean: tBodyGyroJerkStdX       
+
 subjectMean: tBodyGyroJerkStdY
+
 subjectMean: tBodyGyroJerkStdZ
+
 subjectMean: tBodyAccMagStd          
+
 subjectMean: tGravityAccMagStd
+
 subjectMean: tBodyAccJerkMagStd
+
 subjectMean: tBodyGyroMagStd         
+
 subjectMean: tBodyGyroJerkMagStd
+
 subjectMean: fBodyAccStdX
+
 subjectMean: fBodyAccStdY            
+
 subjectMean: fBodyAccStdZ
+
 subjectMean: fBodyAccJerkStdX
+
 subjectMean: fBodyAccJerkStdY        
+
 subjectMean: fBodyAccJerkStdZ
+
 subjectMean: fBodyGyroStdX
+
 subjectMean: fBodyGyroStdY           
+
 subjectMean: fBodyGyroStdZ
+
 subjectMean: fBodyAccMagStd
+
 subjectMean: fBodyBodyAccJerkMagStd  
+
 subjectMean: fBodyBodyGyroMagStd
+
 subjectMean: fBodyBodyGyroJerkMagStd
+
+
 
