@@ -11,26 +11,26 @@ activity - Each row identifies the activity that was performed.  Possible values
 Besides the subject and activity variables, the column names for all other variables have "subjectMean:" pre-pended in their name.  This indicates that the data in these columns  represent the by subject and activity for the given variable (a requirement of the assignment).
 
 Bolded Examples: 
-<b>subjectMean:</b> fBodyAccJerkMean 
-<b>subjectMean:</b> tBodyGyroStdZ
+<br /><b>subjectMean:</b> fBodyAccJerkMean 
+<br /><b>subjectMean:</b> tBodyGyroStdZ
 
 After this prefix, the next part of the column name indicates the name of the signal that was used to estimte the variable for the original raw data set.  In other words, the type of measurement.  
 
 Bolded Examples: 
-subjectMean:<b> fBodyAccJerk</b>StdX 
-subjectMean:<b> fBodyAccJerk</b>MeanY 
+<br />subjectMean:<b> fBodyAccJerk</b>StdX 
+<br />subjectMean:<b> fBodyAccJerk</b>MeanY 
 
 Next, you will see in the column name either the word "Mean" or "Std".  This indicates whether or not the column represents the mean or standard that was provided in the original raw data.  This assignment required that we only include mean and standard deviation data, so those are the only two possible values.
 
 Bolded Examples: 
-subjectMean: fBodyAccJerk<b>Std</b>X 
-subjectMean: fBodyAccJerk<b>Mean</b>Y 
+<br />subjectMean: fBodyAccJerk<b>Std</b>X 
+<br />subjectMean: fBodyAccJerk<b>Mean</b>Y 
 
 Finally, some of the variable colmumns will have a letter X, Y, or Z at the very end.  This indicate which of the 3-axial signals this variable represents.
 
 Bolded Examples: 
-subjectMean: fBodyAccJerkStd<b>X </b>
-subjectMean: fBodyAccJerkMean<b>Y </b>
+<br />subjectMean: fBodyAccJerkStd<b>X </b>
+<br />subjectMean: fBodyAccJerkMean<b>Y </b>
 
 For more information on how the data within each variable was collected, please consult the README file of the original data set, available at this URL: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
