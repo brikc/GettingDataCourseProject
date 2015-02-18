@@ -73,6 +73,13 @@ Note: The Intertial Signal files were deliberately excluded since they are subse
 ### Last Step: write out the new dataset to a TXT file
 
 - This is done with a write.table comment that outputs the file without row names, as required by the assignment
+
+
+### Code Comments
+
+The run_analysis.R script contains detailed comments matching the general description above, so the user can see the actual code that performs all the above mentioned steps.
+
+
     
 
 

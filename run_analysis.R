@@ -121,7 +121,7 @@ run_analysis <- function() {
     ################################################
     # Last step is to write out the new dataset to a TXT file
     
-    write.table(meanTable,row.names=FALSE)
+    write.table(meanTable,file="tidyData.txt",row.names=FALSE)
     
     
 }

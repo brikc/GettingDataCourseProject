@@ -35,143 +35,143 @@ Bolded Examples:
 For more information on how the data within each variable was collected, please consult the README file of the original data set, available at this URL: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
-## Full list of variable columns
+## Full list of variable columns and varible type/units
 
-subject
+subject - int
 
-activity
+activity - factor
 
-subjectMean: tBodyAccMeanX
+subjectMean: tBodyAccMeanX - normalized number
 
-subjectMean: tBodyAccMeanY
+subjectMean: tBodyAccMeanY - normalized number
 
-subjectMean: tBodyAccMeanZ
+subjectMean: tBodyAccMeanZ - normalized number
 
-subjectMean: tGravityAccMeanX
+subjectMean: tGravityAccMeanX - normalized number
 
-subjectMean: tGravityAccMeanY
+subjectMean: tGravityAccMeanY - normalized number
 
-subjectMean: tGravityAccMeanZ
+subjectMean: tGravityAccMeanZ - normalized number
 
-subjectMean: tBodyAccJerkMeanX
+subjectMean: tBodyAccJerkMeanX - normalized number
 
-subjectMean: tBodyAccJerkMeanY
+subjectMean: tBodyAccJerkMeanY - normalized number
 
-subjectMean: tBodyAccJerkMeanZ
+subjectMean: tBodyAccJerkMeanZ - normalized number
 
-subjectMean: tBodyGyroMeanX
+subjectMean: tBodyGyroMeanX - normalized number
 
-subjectMean: tBodyGyroMeanY
+subjectMean: tBodyGyroMeanY - normalized number
 
-subjectMean: tBodyGyroMeanZ
+subjectMean: tBodyGyroMeanZ - normalized number
 
-subjectMean: tBodyGyroJerkMeanX
+subjectMean: tBodyGyroJerkMeanX - normalized number
 
-subjectMean: tBodyGyroJerkMeanY
+subjectMean: tBodyGyroJerkMeanY - normalized number
 
-subjectMean: tBodyGyroJerkMeanZ
+subjectMean: tBodyGyroJerkMeanZ - normalized number
 
-subjectMean: tBodyAccMagMean       
+subjectMean: tBodyAccMagMean - normalized number       
 
-subjectMean: tGravityAccMagMean
+subjectMean: tGravityAccMagMean - normalized number
 
-subjectMean: tBodyAccJerkMagMean
+subjectMean: tBodyAccJerkMagMean - normalized number
 
-subjectMean: tBodyGyroMagMean       
+subjectMean: tBodyGyroMagMean - normalized number       
 
-subjectMean: tBodyGyroJerkMagMean
+subjectMean: tBodyGyroJerkMagMean - normalized number
 
-subjectMean: fBodyAccMeanX
+subjectMean: fBodyAccMeanX - normalized number
 
-subjectMean: fBodyAccMeanY           
+subjectMean: fBodyAccMeanY - normalized number           
 
-subjectMean: fBodyAccMeanZ
+subjectMean: fBodyAccMeanZ - normalized number
 
-subjectMean: fBodyAccJerkMeanX
+subjectMean: fBodyAccJerkMeanX - normalized number
 
-subjectMean: fBodyAccJerkMeanY      
+subjectMean: fBodyAccJerkMeanY - normalized number      
 
-subjectMean: fBodyAccJerkMeanZ
+subjectMean: fBodyAccJerkMeanZ - normalized number
 
-subjectMean: fBodyGyroMeanX
+subjectMean: fBodyGyroMeanX - normalized number
 
-subjectMean: fBodyGyroMeanY         
+subjectMean: fBodyGyroMeanY - normalized number         
 
-subjectMean: fBodyGyroMeanZ
+subjectMean: fBodyGyroMeanZ - normalized number
 
-subjectMean: fBodyAccMagMean
+subjectMean: fBodyAccMagMean - normalized number
 
-subjectMean: fBodyBodyAccJerkMagMean 
+subjectMean: fBodyBodyAccJerkMagMean - normalized number 
 
-subjectMean: fBodyBodyGyroMagMean
+subjectMean: fBodyBodyGyroMagMean - normalized number
 
-subjectMean: fBodyBodyGyroJerkMagMean
+subjectMean: fBodyBodyGyroJerkMagMean - normalized number
 
-subjectMean: tBodyAccStdX            
+subjectMean: tBodyAccStdX - normalized number            
 
-subjectMean: tBodyAccStdY
+subjectMean: tBodyAccStdY - normalized number
 
-subjectMean: tBodyAccStdZ
+subjectMean: tBodyAccStdZ - normalized number
 
-subjectMean: tGravityAccStdX         
+subjectMean: tGravityAccStdX - normalized number        
 
-subjectMean: tGravityAccStdY
+subjectMean: tGravityAccStdY - normalized number
 
-subjectMean: tGravityAccStdZ
+subjectMean: tGravityAccStdZ - normalized number
 
-subjectMean: tBodyAccJerkStdX        
+subjectMean: tBodyAccJerkStdX - normalized number       
 
-subjectMean: tBodyAccJerkStdY
+subjectMean: tBodyAccJerkStdY - normalized number
 
-subjectMean: tBodyAccJerkStdZ
+subjectMean: tBodyAccJerkStdZ - normalized number
 
-subjectMean: tBodyGyroStdX           
+subjectMean: tBodyGyroStdX - normalized number           
 
-subjectMean: tBodyGyroStdY
+subjectMean: tBodyGyroStdY - normalized number
 
-subjectMean: tBodyGyroStdZ
+subjectMean: tBodyGyroStdZ - normalized number
 
-subjectMean: tBodyGyroJerkStdX       
+subjectMean: tBodyGyroJerkStdX - normalized number       
 
-subjectMean: tBodyGyroJerkStdY
+subjectMean: tBodyGyroJerkStdY - normalized number
 
-subjectMean: tBodyGyroJerkStdZ
+subjectMean: tBodyGyroJerkStdZ - normalized number
 
-subjectMean: tBodyAccMagStd          
+subjectMean: tBodyAccMagStd - normalized number          
 
-subjectMean: tGravityAccMagStd
+subjectMean: tGravityAccMagStd - normalized number
 
-subjectMean: tBodyAccJerkMagStd
+subjectMean: tBodyAccJerkMagStd - normalized number
 
-subjectMean: tBodyGyroMagStd         
+subjectMean: tBodyGyroMagStd - normalized number        
 
-subjectMean: tBodyGyroJerkMagStd
+subjectMean: tBodyGyroJerkMagStd - normalized number
 
-subjectMean: fBodyAccStdX
+subjectMean: fBodyAccStdX - normalized number
 
-subjectMean: fBodyAccStdY            
+subjectMean: fBodyAccStdY - normalized number            
 
-subjectMean: fBodyAccStdZ
+subjectMean: fBodyAccStdZ - normalized number
 
-subjectMean: fBodyAccJerkStdX
+subjectMean: fBodyAccJerkStdX - normalized number
 
-subjectMean: fBodyAccJerkStdY        
+subjectMean: fBodyAccJerkStdY - normalized number        
 
-subjectMean: fBodyAccJerkStdZ
+subjectMean: fBodyAccJerkStdZ - normalized number
 
-subjectMean: fBodyGyroStdX
+subjectMean: fBodyGyroStdX - normalized number
 
-subjectMean: fBodyGyroStdY           
+subjectMean: fBodyGyroStdY - normalized number           
 
-subjectMean: fBodyGyroStdZ
+subjectMean: fBodyGyroStdZ - normalized number
 
-subjectMean: fBodyAccMagStd
+subjectMean: fBodyAccMagStd - normalized number
 
-subjectMean: fBodyBodyAccJerkMagStd  
+subjectMean: fBodyBodyAccJerkMagStd - normalized number  
 
-subjectMean: fBodyBodyGyroMagStd
+subjectMean: fBodyBodyGyroMagStd - normalized number
 
-subjectMean: fBodyBodyGyroJerkMagStd
+subjectMean: fBodyBodyGyroJerkMagStd - normalized number
 
 
 
