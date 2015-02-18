@@ -1,5 +1,4 @@
-# Getting and Cleaning Data
-# Course Project
+# Getting and Cleaning Data/Course Project
 
 This repository contains three files pertaining to the course project:
 
