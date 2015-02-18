@@ -1,9 +1,12 @@
----
-title: "README.md"
-author: "Brianne Calandra"
-date: "February 17, 2015"
-output: html_document
----
+# Getting and Cleaning Data - Course Project
+
+This repository contains three files pertaining to the course project:
+
+- README.md (this file)
+- run_analysis.R
+- tidyData.txt
+
+
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
