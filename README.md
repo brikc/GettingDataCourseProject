@@ -1,11 +1,26 @@
-# Getting and Cleaning Data - Course Project
+# Getting and Cleaning Data
+# Course Project
 
 This repository contains three files pertaining to the course project:
 
+- CodeBook.md
 - README.md (this file)
 - run_analysis.R
 - tidyData.txt
 
+Each of the other files are described in the remainder of this README.md file.
+
+## CodeBook.md
+
+This file provides a description of the variables and observations that are found in the tidyData.txt file.
+
+## run_analysis.R
+
+Following are details on how the run_analysis.R script works.
+
+## tidyData.txt
+
+This is the text file that holds the resulting tidy dataset which run_analysis.R produces.
 
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
