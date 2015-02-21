@@ -19,20 +19,20 @@ This is the output file for the run_analysis.R script.  This file holds the tidy
 
 ## run_analysis.R
 
-Following are details on how the run_analysis.R script works.  The script file also includes comments within it, explaining each step in detail.
+Following is an explanation of how the run_analysis.R script works.  The script file also includes comments within it, explaining each step in detail.
 
 ### Getting the data
 - The script first downloads the source data file if it's not already available in the working directory.  This source file is located here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 - Once the source data is downloaded and unzipped, the first step is to merge the training and the test sets to create one data set.  The script reads in the following data tables:
--- UCI HAR Dataset/features.txt
--- UCI HAR Dataset/train/subject_train.txt   
--- UCI HAR Dataset/train/y_train.txt
--- UCI HAR Dataset/train/X_train.txt
--- UCI HAR Dataset/test/subject_test.txt
--- UCI HAR Dataset/test/X_test.txt
--- UCI HAR Dataset/test/y_test.txt
+<br />-- UCI HAR Dataset/features.txt
+<br />-- UCI HAR Dataset/train/subject_train.txt   
+<br />-- UCI HAR Dataset/train/y_train.txt
+<br />-- UCI HAR Dataset/train/X_train.txt
+<br />-- UCI HAR Dataset/test/subject_test.txt
+<br />-- UCI HAR Dataset/test/X_test.txt
+<br />-- UCI HAR Dataset/test/y_test.txt
 
 Note: The Intertial Signal files were deliberately excluded since they are subsequently removed from the data table per assignment requirements.
 
@@ -66,13 +66,13 @@ Note: The Intertial Signal files were deliberately excluded since they are subse
 
 ### Assignment Step 5: From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
     
-- First write code to group by subject and activity and takes a mean of all other columns.
+- First I wrote code to group by subject and activity and take a mean of all other columns.
 
-- Then update the column names to reflect these new variables - the mean of each column.
+- Then I updated the column names to reflect these new variables - the mean of each column.
 
 ### Last Step: write out the new dataset to a TXT file
 
-- This is done with a write.table comment that outputs the file without row names, as required by the assignment
+- This is done with a write.table comment that outputs the file without row names, as required by the assignment.
 
 
 ### Code Comments
