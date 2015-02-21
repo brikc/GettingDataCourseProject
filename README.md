@@ -27,7 +27,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 - Once the source data is downloaded and unzipped, the first step is to merge the training and the test sets to create one data set.  The script reads in the following data tables:
 <br />-- UCI HAR Dataset/features.txt
-<br />-- UCI HAR Dataset/train/subject_train.txt   
+<br />-- UCI HAR Dataset/train/subject_train.txt
 <br />-- UCI HAR Dataset/train/y_train.txt
 <br />-- UCI HAR Dataset/train/X_train.txt
 <br />-- UCI HAR Dataset/test/subject_test.txt
